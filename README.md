@@ -24,5 +24,5 @@ An AVL tree is named after its inventors, Adelson-Velsky and Landis. It is a sel
 - It's important to respect the work of others and to contribute to a learning environment that values honesty and responsibility. Please ensure that your use of this and other educational resources complies with your institution's academic integrity policies.
 
 ## References
-- Amanpreet Kapoor's insights on AVL Trees have been instrumental in understanding the theoretical foundations and practical applications of self-balancing binary search trees.
-- The educational content and examples provided by GeeksforGeeks on AVL Trees have been valuable resources for implementing and testing this AVL Tree. For further reading, visit GeeksforGeeks AVL Tree.
+- Professor Amanpreet Kapoor from the University of Florida has been incredibly insightful in developing my understanding of the concepts displayed in this project. Furthermore, implementations for deletion algorithms and insertion are to his credit.
+- Rotation functions are credited to GeeksForGeeks.
