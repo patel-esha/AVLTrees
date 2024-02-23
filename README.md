@@ -21,7 +21,7 @@ An AVL tree is named after its inventors, Adelson-Velsky and Landis. It is a sel
 ## Academic Integrity
 - This implementation is provided for educational purposes. Users are encouraged to learn from and understand the code but should adhere to academic integrity guidelines when using this implementation in their projects or assignments. Copying this code without proper attribution and passing it off as one's own work is not allowed.
 
-It's important to respect the work of others and to contribute to a learning environment that values honesty and responsibility. Please ensure that your use of this and other educational resources complies with your institution's academic integrity policies.
+- It's important to respect the work of others and to contribute to a learning environment that values honesty and responsibility. Please ensure that your use of this and other educational resources complies with your institution's academic integrity policies.
 
 ## References
 - Amanpreet Kapoor's insights on AVL Trees have been instrumental in understanding the theoretical foundations and practical applications of self-balancing binary search trees.
