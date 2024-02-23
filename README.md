@@ -24,5 +24,5 @@ An AVL tree is named after its inventors, Adelson-Velsky and Landis. It is a sel
 - It's important to respect the work of others and to contribute to a learning environment that values honesty and responsibility. Please ensure that your use of this and other educational resources complies with your institution's academic integrity policies.
 
 ## References
-- Professor Amanpreet Kapoor from the University of Florida has been incredibly insightful in developing my understanding of the concepts displayed in this project. Furthermore, implementations for deletion algorithms and insertion are to his credit.
+- Professor Amanpreet Kapoor from the University of Florida has been incredibly insightful in developing my understanding of the concepts displayed in this project. Furthermore, implementations for deletion algorithms and insertion are to his credit (kapooramanpreet@ufl.edu)
 - Rotation functions are credited to GeeksForGeeks.
